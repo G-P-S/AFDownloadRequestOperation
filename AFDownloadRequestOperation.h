@@ -36,7 +36,6 @@
  The target directory should already be create, or the download fill fail.
  
  If the target is a directory, we use the last part of the URL as a default file name.
- targetPath is the responseObject if operation succeeds
  */
 @property (strong) NSString *targetPath;
 
